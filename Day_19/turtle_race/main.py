@@ -28,6 +28,7 @@ for turtle_index in range(0, 5):
     all_turtles.append(turtles)
 
 
+
 # While loop - this only runs if the user has put in an option when the game starts. This value is saved and compared to
 # the turtle that reaches the x coordinates of 219/220. At this point, the game will stop and one of two statements will
 # be printed in the console. I'm not yet sure how to make this appear as a window prompt.

@@ -1,0 +1,6 @@
+The BMI for Reed is 35.4
+The BMI for Helena is 27.9
+The BMI for Lukas is 27.8
+The BMI for Tennyson is 26.2
+The BMI for Cyriacus is 32.0
+The BMI for Lubov is 29.5
